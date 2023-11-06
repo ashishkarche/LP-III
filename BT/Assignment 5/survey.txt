@@ -1,0 +1,55 @@
+Introduction:
+
+Blockchain technology has evolved significantly since the inception of Bitcoin in 2009. While the original use case was decentralized currency, various types of blockchains have emerged, each catering to different needs. This survey explores the types of blockchains and their real-time use cases, showcasing the diversity and potential impact of this revolutionary technology.
+
+Types of Blockchains:
+
+1) Public Blockchains:
+
+Use Case: Cryptocurrencies like Bitcoin and Ethereum utilize public blockchains. They offer open access, transparency, and decentralization, making them suitable for peer-to-peer transactions and decentralized applications (DApps).
+
+2) Private Blockchains:
+
+Use Case: Enterprise solutions often employ private blockchains. These are permissioned networks, where access is restricted to specific participants. They find applications in supply chain management, document verification, and internal record-keeping.
+
+3) Consortium Blockchains:
+
+Use Case: Consortium or federated blockchains are governed by a group of organizations. This model combines the benefits of public and private blockchains, making it suitable for industries that require shared control, such as finance and healthcare.
+
+4) Hybrid Blockchains:
+
+Use Case: Hybrid blockchains combine elements of both public and private blockchains. They offer flexibility and scalability. Use cases include cross-border payments, where some parts of the transaction are public, while others remain private.
+
+
+********Real-Time Use Cases:**********
+
+1) Finance:
+
+Type: Public, Private, Consortium
+Use Case: Public blockchains like Ethereum are used for decentralized finance (DeFi) applications, while private and consortium blockchains are employed for secure and efficient inter-bank transactions.
+
+2) Supply Chain Management:
+
+Type: Private, Consortium
+Use Case: Private blockchains ensure data integrity within a company's supply chain, while consortium blockchains enable collaboration between multiple stakeholders, reducing fraud and enhancing traceability.
+
+3) Healthcare:
+
+Type: Private, Consortium
+Use Case: Patient records, drug traceability, and clinical trials benefit from the privacy and collaboration features of private and consortium blockchains, ensuring secure and transparent data sharing.
+
+4) Smart Contracts:
+
+Type: Public
+Use Case: Public blockchains like Ethereum enable the execution of self-executing smart contracts, automating various processes in areas such as legal agreements, real estate, and digital identity verification.
+
+5) Voting Systems:
+
+Type: Consortium, Hybrid
+Use Case: Consortium and hybrid blockchains provide a transparent and secure platform for electronic voting systems, ensuring the integrity of the voting process.
+
+
+
+***********Conclusion:************
+
+The survey highlights the diversity of blockchains and their real-time applications across industries. As technology continues to evolve, the potential for blockchain to transform traditional systems becomes more apparent. Whether in finance, healthcare, supply chain management, or voting systems, the types of blockchains offer unique solutions to address various challenges and improve efficiency, transparency, and security.
